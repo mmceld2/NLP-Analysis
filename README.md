@@ -1,4 +1,5 @@
  # Tweet Sentiment Analysis
+![image](https://user-images.githubusercontent.com/20134289/136612334-175389ad-9f4b-4f83-a64f-ac535db432d8.png)
 
 ## Business Problem
 We are freelancers building a model to determine positive, negative, and neutral reactions from tweets. Our goal is to help businesses know customers' immediate feelings and emotions associated with products. This model will help companies be more in touch with their customer base and enable them to address issues quickly and make better marketing decisions.
@@ -31,7 +32,7 @@ Apps and other products have the highest percentage of positive tweets, perhaps 
 
 <img src="Images_4_project/download (4).png" align="center"><br>
 
-This wordloud shows the unique words most associated with the positive tweets, showing words like great, cool, and party. This makes sense that these would be associated with positive tweets.
+This wordcloud shows the unique words most associated with the positive tweets, showing words like great, cool, and party. This makes sense that these would be associated with positive tweets.
 
 <img src="Images_4_project/download (5).png" align="center"><br>
 
